@@ -14,6 +14,7 @@ void sort(int arr[], int size)
             }
 }
 
+// 给main函数添加注释
 int main()
 {
     int arr[] = {12, 32, 4, 3, 1, 6};
