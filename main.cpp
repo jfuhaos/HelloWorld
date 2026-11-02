@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// linux的符号给sort函数添加了注释
 void sort(int arr[], int size)
 {
     for (int i = 0; i < size - 1; i++)
